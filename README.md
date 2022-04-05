@@ -9,4 +9,4 @@ I made this modification usung a Chromecast with Google TV.
 
 Integration goes into custom_components. 
 
-If you would like to add icons you can feel free to make a PR!
+If you would like to add icons (or fix my code lmao) you can feel free to make a PR!
